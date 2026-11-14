@@ -1,6 +1,6 @@
 # QA Assessment – PrestaShop Selenium Tests
 
-Part 1 test cases are in `TC.docx`. Part 2 uses Python, Selenium WebDriver,
+Part 1 test cases are in `Part1.docx`. Part 2 uses Python, Selenium WebDriver,
 pytest and Chrome. Page Objects and locators are in `pages/`, and test
 steps and assertions are in `tests/`.
 
